@@ -1,0 +1,47 @@
+body {
+   background-color: lightgrey;
+}
+.div_1 {
+    border: 1px solid black;
+}
+.div_2 {
+    border: 2px solid black;
+    height: 50px;
+    width: 609px;
+    margin: auto;
+}
+#my_second_posting {
+    border: 5px solid black;
+    height: 500px;
+    width: 600px;
+    margin: auto;
+}
+#my_third_posting {
+    border: 5px solid black;
+    height: 500px;
+    width: 600px;
+    margin: auto;
+}
+#my_first_posting {
+    border: 2px solid black;
+    height: 500px;
+    width: 602px;
+    margin: auto;
+    
+}
+
+#title {
+    border: 5px solid black;
+    width: 600px;
+    margin: auto;
+}
+#first_picture{
+    border: 5px solid black;
+    background-image:url(https://cdn.akc.org/content/article-body-image/beagle2_cute_puppies.jpg);
+    object-fit:contain;
+    height: 400px;
+    width: 600px;
+    margin: auto;
+}
+   
+
